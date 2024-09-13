@@ -1,0 +1,15 @@
+{
+  "name": "swap-loa-bot",
+  "version": "1.0.0",
+  "description": "A bot to swap ETH for LOA tokens using Base network and 1inch",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.7.0",
+    "web3": "^1.7.6"
+  }
+}
